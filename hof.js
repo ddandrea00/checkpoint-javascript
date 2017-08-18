@@ -11,7 +11,7 @@ var people = [
 // called `peoplesAges`.
 // Type your solution immediately below this line:
 
-var getAge =
+var getAge = people.
 
 function map(people){
   var peoplesAges = []
