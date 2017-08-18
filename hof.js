@@ -11,6 +11,18 @@ var people = [
 // called `peoplesAges`.
 // Type your solution immediately below this line:
 
+var getAge =
+
+function map(people){
+  var peoplesAges = []
+  for(i = 0; i < people.length; i++){
+  peoplesAges.push(getAge[i])
+}
+  return peoplesAges
+}
+
+
+
 
 
 
